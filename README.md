@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/kontra-logo-dark.svg">
-  <img src=".github/assets/kontra-logo-light.svg" alt="kontra" width="238" height="48">
-</picture>
+
 
 **Run a job over a batch of inputs, across a fleet you don't have to babysit.**
 
